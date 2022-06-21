@@ -14,15 +14,14 @@ Cakupan Jaminan Kesehatan Nasional (JKN) adalah perbandingan banyaknya penduduk 
 6.	Kepadatan dan Distribusi Tenaga Kesehatan.
 Merupakan kepadatan tenaga kesehatan disuatu wilayah dapat digunakan rasio tenaga kesehatan per 1.000 penduduk.
 
-Metode Pengolahan dan Analisis Data
-Preprocessing Data
+
 Menurut Charu C. Aggarwal, tahapan preprocessing data merupakan tahapan penting dalam proses data mining. Proses data cleaning merupakan proses yang sangat penting untuk menangani kesalahan yang sering terjadi akibat data yang tidak lengkap akibat proses pengumpulan data yang kurang teliti Tahapan yang dilakukan pada data cleaning diantaranya menangani missing values, menangani hasil entry data yang salah, dan melakukan scaling dan normalisasi.
 
- Clustering
-Pada tahapan clustering terlebih dahulu dilakukan standardisasi data. Kemudian, setelah dilakukan standardisasi maka dilakukan pemilihan metode jarak yang akan digunakan. Metode jarak yang digunakan merupakan metode dengan nilai cophenetic yang paling tinggi. Klasterisasi dilakukan dengan menggunakan hierarchical clustering dengan metode jarak terpilih.
 
-Analisis Deskriptif
-Metode analisis yang digunakan adalah analisis deskriptif yaitu statistik yang digunakan untuk menganalisis data dengan cara mendeskripsikan atau menggambarkan data yang telah terkumpul sebagaimana adanya tanpa bermaksud membuat kesimpulan yang berlaku untuk umum atau generalisasi. Visualisasi yang akan ditampilkan adalah sebagai berikut.
+Kemudian, pada tahapan clustering terlebih dahulu dilakukan standardisasi data. Kemudian, setelah dilakukan standardisasi maka dilakukan pemilihan metode jarak yang akan digunakan. Metode jarak yang digunakan merupakan metode dengan nilai cophenetic yang paling tinggi. Klasterisasi dilakukan dengan menggunakan hierarchical clustering dengan metode jarak terpilih.
+
+
+Selanjutnya, metode analisis yang digunakan adalah analisis deskriptif yaitu statistik yang digunakan untuk menganalisis data dengan cara mendeskripsikan atau menggambarkan data yang telah terkumpul sebagaimana adanya tanpa bermaksud membuat kesimpulan yang berlaku untuk umum atau generalisasi. Visualisasi yang akan ditampilkan adalah sebagai berikut.
 1.	Persentase penduduk yang hidup di bawah garis kemiskinan menurut provinsi, nasional, jenis kelamin, jenis kelamin kepala rumah tangga, kelompok umur, daerah tempat tinggal, dan status disabilitas.
 2.	Distribusi penduduk yang hidup di bawah garis kemiskinan tahun 2015-2020.
 3.	Prevalensi ketidakcukupan pangan tahun 2020.
